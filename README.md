@@ -1,0 +1,1 @@
+Este projeto é um jogo de número secreto com reconhecimento de voz desenvolvido em JavaScript. Nele, o jogador precisa adivinhar um número secreto falando os palpites em voz alta. O jogo responde se o número é maior ou menor até que o jogador acerte o número correto
